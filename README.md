@@ -35,7 +35,7 @@ Xiaomi-s-Revenue-Analysis/
 
 ## How to Run
 1. Clone the repo
-   git clone https://github.com/navyachaddha/chineseCompanyAnalysis.git
+   git clone https://github.com/Navya-Chaddha/Xiaomi-s-Revenue-Analysis.git
 2. Install dependencies
    pip install pandas matplotlib
 3. Open the notebook
